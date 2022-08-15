@@ -1,0 +1,6 @@
+Use "App Service Editor" in Azure to view/edit web config or any application file
+
+To test the fire connection run this command in cmd (Debug Console -> CMD)
+https://company.scm.azurewebsites.net/ 
+(Ex: tcpping 172.123.34.3:1433 )
+
